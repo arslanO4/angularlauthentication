@@ -1,4 +1,4 @@
-# Auth
+# Simple Login and Signup with Angular and Json-Server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 

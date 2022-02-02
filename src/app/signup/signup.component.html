@@ -1,0 +1,10 @@
+<div class="wrapper">
+  <form [formGroup]="SignupForm" class="form-signin" (ngSubmit)="signUp()">
+    <h2 class="form-signin-heading">Register</h2>
+    <input formControlName="email" type="text" class="form-control" name="email" placeholder="Email Address" required="" autofocus="" />
+    <input formControlName="password" type="password" class="form-control" name="password" placeholder="Password" required=""/>
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Submit</button>
+    <div class="row mt-3 justify-content-center"><p>Already have an account?</p><a routerLink="/login">Login</a></div>
+  </form>
+
+</div>

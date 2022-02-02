@@ -1,0 +1,19 @@
+{
+  "signupUsers": [
+    {
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "email": "Arslan",
+      "password": "arslan123",
+      "id": 2
+    },
+    {
+      "email": "mudassir@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ]
+}
